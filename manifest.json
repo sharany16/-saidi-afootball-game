@@ -1,0 +1,20 @@
+{
+  "name": "دوري أبطال الصعيد - مدرب الاتجاه أونلاين",
+  "short_name": "مدرب الصعيد",
+  "start_url": "/saidi-afootball-game/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1b5e20",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
