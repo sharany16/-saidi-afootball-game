@@ -1,4 +1,4 @@
-const CACHE_NAME = 'saidi-manager-v2';
+const CACHE_NAME = 'saidi-manager-v1';
 const assetsToCache = [
   './Saidi_Manager_Online_PWA_Complete.html'
 ];
